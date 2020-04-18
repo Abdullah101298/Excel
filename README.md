@@ -20,7 +20,7 @@ Kickstarter is a crowdfunding resource where donors can donate to a variety of d
 
         (1) Create a new sheet with a pivot table that will analyze your initial worksheet to count how many campaigns were               successful, failed, canceled, or are currently live per category.
 
-        ![The Categories of the Project vs. the Outcome](https://github.com/Abdullah101298/Kickstarter_Projects_Analysis/blob/master/Figures/CategoriesFreq.png?raw=true "Test")
+        ![The Categories of the Project vs. the Outcome] (https://github.com/Abdullah101298/Kickstarter_Projects_Analysis/blob/master/Figures/CategoriesFreq.png?raw=true "Test")
         
         (2) Create a new sheet with a pivot table with a column of state, rows of Date Created Conversion, values based on the             count of state, and filters based on parent category and Years.
 
