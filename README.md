@@ -1,8 +1,6 @@
 # Kickstarter Project Analysis 
 
-[Image1]: https://cdn.techinasia.com/wp-content/uploads/2015/06/kickstarter-logo.jpg
-
-![Kickstarter Logo][Image1] 
+<img src="https://cdn.techinasia.com/wp-content/uploads/2015/06/kickstarter-logo.jpg" width= 1000 height= 300>
 
 ## Programs used: Excel & Pivot Tables
 
