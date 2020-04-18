@@ -12,7 +12,8 @@ Kickstarter is a crowdfunding resource where donors can donate to a variety of d
 
 ## Task 1 - Conditional Formatting and Column Manipulation
 
-        (1) Edit the excel file to create a new column called Percent Funded that uses a formula to uncover how much money a campaign made to reach its initial goal.
+        (1) Edit the excel file to create a new column called Percent Funded that uses a formula⋅⋅
+        to uncover how much money a campaign made to reach its initial goal.
         
         (2) Use conditional formatting to fill each cell in the Percent Funded column using a three-color scale. The scale should start at 0 and be a dark shade of red, transitioning to green at 100, and blue at 200.
         
