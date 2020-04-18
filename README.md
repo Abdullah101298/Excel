@@ -1,5 +1,9 @@
 # Kickstarter Project Analysis 
 
+[Image1]: https://cdn.techinasia.com/wp-content/uploads/2015/06/kickstarter-logo.jpg
+
+![Kickstarter Logo][Image1] 
+
 ## Programs used: Excel & Pivot Tables
 
 ## Background 
@@ -21,8 +25,4 @@ Kickstarter is a crowdfunding resource where donors can donate to a variety of d
         (1) Create a new sheet with a pivot table that will analyze your initial worksheet to count how many campaigns were               successful, failed, canceled, or are currently live per category.
  
         (2) Create a new sheet with a pivot table with a column of state, rows of Date Created Conversion, values based on the             count of state, and filters based on parent category and Years.
-
-[Image1]: https://github.com/Abdullah101298/Kickstarter_Projects_Analysis/blob/master/Figures/CategoriesFreq.png?raw=true 
-
-![The Categories of the Project vs. the Outcome][Image1] 
 
